@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-//Got it 
+    @IBAction func secondButton(_ sender: Any) {
+        
+    }
 }
 
